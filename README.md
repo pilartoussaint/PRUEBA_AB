@@ -73,7 +73,7 @@ Este proyecto forma parte del curso *"La toma de decisiones de negocios basadas 
 
 ## 👩‍⚕️ Autor
 
-*[Tu Nombre]*  
+*María Pilar Toussaint Padilla*  
 Médica | Analista de datos en formación | Interesada en investigación interdisciplinaria  
 🔗 [LinkedIn](https://www.linkedin.com/in/tu-usuario) | 💻 [GitHub](https://github.com/tu-usuario)
 
